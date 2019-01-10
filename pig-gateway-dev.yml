@@ -48,7 +48,6 @@ ignore:
   urls:
     - /mobile/**
     - /auth/**
-    - /sso1/**
     - /admin/code/*
     - /admin/smsCode/*
     - /admin/user/info
