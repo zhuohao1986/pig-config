@@ -25,9 +25,9 @@ zuul:
     behind-proxy: true
     policies:
       pig-upms-service:
-        limit: 10
-        quota: 10
-        refresh-interval: 30
+        limit: 100
+        quota: 100
+        refresh-interval: 3
 
 security:
   encode:
